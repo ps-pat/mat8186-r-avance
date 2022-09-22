@@ -7,3 +7,6 @@
 [submodule "cours3-debug_profile_benchmark"]
 	path = cours3-debug_profile_benchmark
 	url = ./cours3-debug_profile_benchmark
+[submodule "cours4-oop"]
+	path = cours4-oop
+	url = ./cours4-oop

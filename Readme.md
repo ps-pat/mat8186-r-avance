@@ -1,7 +1,7 @@
 [![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours1/)
 [![Cours 2](https://img.shields.io/badge/Cours%202-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours2/)
 [![Cours 3](https://img.shields.io/badge/Cours%203-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours3/)
-[![Cours 4](https://img.shields.io/badge/Cours%204-Hors%20ligne-red)](https://adv-r.hadley.nz/)
+[![Cours 4](https://img.shields.io/badge/Cours%204-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours4/)
 [![Cours 5](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://adv-r.hadley.nz/)
 
 # MAT8186: Techniques avancées en programmation statistiques R
@@ -189,7 +189,7 @@ au contrôle de version (git). La marche à suivre est la suivante:
 
 3. Ensuite, choisissez le répertoire du dépôt que vous avez cloné dans
    les étapes précédentes.
-   
+
 ![Screenshot, new project3](readme_pictures/rstudio_newproject3.png)
 
 ### Triangular workflow
