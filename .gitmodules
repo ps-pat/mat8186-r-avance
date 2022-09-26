@@ -10,3 +10,6 @@
 [submodule "cours4-oop"]
 	path = cours4-oop
 	url = ./cours4-oop
+[submodule "cours5-packaging"]
+	path = cours5-packaging
+	url = ./cours5-packaging
