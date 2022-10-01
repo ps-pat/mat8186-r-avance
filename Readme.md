@@ -26,6 +26,7 @@ dépôt contiendra donc l'ensemble du matériel nécessaire*.
 ## Devoirs
 * [Devoir 1](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2022/devoir1)
 * [Devoir 2](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2022/devoir2)
+* [Devoir 3](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2022/devoir3)
 
 ## Coordonnées
 Vous pouvez me joindre:
