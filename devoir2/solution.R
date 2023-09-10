@@ -83,6 +83,6 @@ knapsack <- function(v, w, V, W) {
 ## c)
 bench::mark(knapsack(v, w, 50L, 100L),
             iterations = 100L,
-            env = list2env(list(v = sample(1:20, 12L, replace = TRUE),
-                                w = sample(1:20, 12L, replace = TRUE)))) |>
+            env = list2env(list(v = sample(1:20, 5L, replace = TRUE),
+                                w = sample(1:20, 5L, replace = TRUE)))) |>
     ggplot2::autoplot()
