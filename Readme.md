@@ -18,15 +18,12 @@ dépôt contiendra donc l'ensemble du matériel nécessaire*.
 
 ## Informations
 * [Horaire](https://etudier.uqam.ca/cours?sigle=MAT8186): de 10h00 à 12h00 le
-  * jeudi: 8, 15, 22 et 29 septembre
-  * lundi: 12, 19 et 26 septembre, 3 octobre
+  * lundi: 11, 18 et 25 septembre, 2 octobre
 * [Emplacement](https://goo.gl/maps/qBEwa3xAaQB4keiY9): PK-S1545
    * Il s'agit d'un laboratoire d'informatique; des ordinateurs avec RStudio seront disponibles pour tous. Toutefois, je vous encourage à apporter votre propre ordinateur si vous préférez.
 
 ## Devoirs
-* [Devoir 1](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2022/devoir1)
-* [Devoir 2](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2022/devoir2)
-* [Devoir 3](https://github.com/cours-patrickFournier/mat8186-r-avance/tree/automne2022/devoir3)
+À venir!
 
 ## Coordonnées
 Vous pouvez me joindre:
@@ -57,8 +54,8 @@ Autres références disponibles sur demande.
 ## Logiciels à installer
 Les logiciels suivants sont nécessaires pour le cours.
 
-* [R (>= 4.2.1)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
-* [Git (>= 2.37.3)](https://git-scm.com/downloads)
+* [R (>= 4.3.1)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
+* [Git (>= 2.42.0)](https://git-scm.com/downloads)
 
 Si vous possédez déjà ces logiciels, profitez du début de la session pour vous
 assurer qu'ils sont bien à jour.
