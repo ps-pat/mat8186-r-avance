@@ -51,6 +51,7 @@ Références principales:
 
 Random:
 * Tables de hachage:
+  - [Explications](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
   - [Documentation R](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/hashtab.html)
   - [Exemple](https://www.patrickfournier.ca/pages/blog/post_r-42/index.html#hashtables)
 
