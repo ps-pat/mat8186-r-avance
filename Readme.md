@@ -49,7 +49,10 @@ Références principales:
 * [R FAQ (Kurt Hornik)](https://cran.r-project.org/doc/FAQ/R-FAQ.html)
 * [Git Reference (Scott Chacon et contributeurs du dépôt git-scm.com)](https://git-scm.com/docs)
 
-Autres références disponibles sur demande.
+Random:
+* Tables de hachage:
+  - [Documentation R](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/hashtab.html)
+  - [Exemple](https://www.patrickfournier.ca/pages/blog/post_r-42/index.html#hashtables)
 
 ## Logiciels à installer
 Les logiciels suivants sont nécessaires pour le cours.
