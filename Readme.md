@@ -35,7 +35,7 @@ Vous pouvez me joindre:
 Vous ne devriez *pas* me contacter directement pour poser une question d'intérêt
 général (exemple: "comment fait-on `xyz` dans R"). Pour ce type de questions,
 utilisez plutôt le [forum du
-cours](https://github.com/orgs/cours-patrickFournier/teams/automne-2022/discussions).
+cours](https://github.com/orgs/cours-patrickFournier/teams/automne-2023/discussions).
 Tel que discuté, des points seront offerts pour toute réponse (correcte) que
 vous fournirez à une question du forum.
 
@@ -144,17 +144,17 @@ cette copie*.
 
 1. Clonez mon dépôt:
 ```bash
-git clone --origin pat git@github.com:cours-patrickFournier/mat8186-r-avance.git
+git clone --origin upstream git@github.com:cours-patrickFournier/mat8186-r-avance.git
 cd mat8186-r-avance
 ```
 2. Ajoutez votre dépôt GitHub comme remote:
 ```bash
-git remote add moi git@github.com:<nom d'utilisateur>/<nom du dépôt>.git
+git remote add origin git@github.com:<nom d'utilisateur>/<nom du dépôt>.git
 ```
 
 3. Poussez vers votre dépôt:
 ```bash
-git push --set-upstream moi automne2022
+git push --set-upstream origin master
 ```
 
 Une fois cela fait, donnez-moi accès à votre dépôt en m'ajoutant comme
@@ -224,21 +224,21 @@ d'erreur de la part de git.*
 Dans le cadre du cours, vous aller presque toujours vouloir intégrer les changements apportés à mon dépôt au vôtre. Pour ce faire, utilisez la commande:
 
 ```bash
-git pull pat automne2022
+git pull upstream master
 ```
 
 Cette commande se comprend ainsi:
 - **git**: nom du logiciel à utiliser;
 - **pull**: action à réaliser;
 - **pat**: nom du dépôt distant (*remote*);
-- **automne2022** nom de la branche.
+- **master** nom de la branche.
 
 Parfois, il peut être nécessaire d'incorporer des changements apportés
 à votre propre dépôt. Pour ce faire, il suffit de changer le nom du
 remote dans la commande précédente:
 
 ```bash
-git pull moi automne2022
+git pull origin master
 ```
 
 Notez qu'il est possible d'effectuer un `git pull` directement à
@@ -291,7 +291,7 @@ git push
 Si vous obtenez un message d'erreur, assurez-vous de pousser vers le bon remote:
 
 ```bash
-git push --set-upstream moi automne2022
+git push --set-upstream origin master
 ```
 
 À partir de RStudio, cette opération est élémentaire:
@@ -299,9 +299,9 @@ git push --set-upstream moi automne2022
 ![Screenshot, RStudio push](readme_pictures/rstudio_push.png)
 
 Notez que vous pouvez uniquement faire un `push` vers votre propre
-dépôt ("moi"). Si vous tentez de le faire vers un dépôt pour lequel
-vous ne possédez pas les permissions appropriées (par exemple "pat"),
-vous obtiendrez un message d'erreur.
+dépôt ("origin"). Si vous tentez de le faire vers un dépôt pour lequel
+vous ne possédez pas les permissions appropriées (par exemple
+"upstream"), vous obtiendrez un message d'erreur.
 
 ## Pour en savoir plus
 Git est un logiciel immensément populaire pour lequel il existe une
