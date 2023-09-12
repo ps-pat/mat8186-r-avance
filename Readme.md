@@ -106,7 +106,7 @@ une quantité impressionnante de fonctionnalité. Cette section vous liste les
    changements que j'y apporterai et
 2. une copie en ligne de votre dépôt local à laquelle j'aurai accès.
 
-![Schema git](readme_pictures/schema_git.png)
+![Schema git](readme_pictures/schema_git.svg)
 
 ### Créez votre compte GitHub
 Le processus est standard, vous devriez facilement y arriver.
