@@ -25,6 +25,10 @@ dépôt contiendra donc l'ensemble du matériel nécessaire*.
 ## Devoirs
 * [Devoir 1](https://www.patrickfournier.ca/mat8186-devoir1/)
 
+## Code
+Exemples vu dans les cours.
+* [Cours 3](https://gist.github.com/ps-pat/7b2472679ee043c92751390570151ccc)
+
 ## Coordonnées
 Vous pouvez me joindre:
 
