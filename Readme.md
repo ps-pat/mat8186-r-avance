@@ -28,6 +28,7 @@ dépôt contiendra donc l'ensemble du matériel nécessaire*.
 ## Code
 Exemples vu dans les cours.
 * [Cours 3](https://gist.github.com/ps-pat/7b2472679ee043c92751390570151ccc)
+* [Cours 4](https://gist.github.com/ps-pat/52828a05c8396d5087978aa002709469)
 
 ## Coordonnées
 Vous pouvez me joindre:
