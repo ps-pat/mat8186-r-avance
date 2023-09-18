@@ -1,7 +1,7 @@
 [![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours1/)
 [![Cours 2](https://img.shields.io/badge/Cours%202-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours2/)
-[![Cours 3](https://img.shields.io/badge/Cours%203-Ancienne%20version-yellow)](https://www.patrickfournier.ca/mat8186-cours3/)
-[![Cours 4](https://img.shields.io/badge/Cours%204-Ancienne%20version-yellow)](https://www.patrickfournier.ca/mat8186-cours4/)
+[![Cours 3](https://img.shields.io/badge/Cours%203-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours3/)
+[![Cours 4](https://img.shields.io/badge/Cours%204-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours4/)
 [![Cours 5](https://img.shields.io/badge/Cours%205-Ancienne%20version-yellow)](https://www.patrickfournier.ca/mat8186-cours5/)
 [![Cours 6](https://img.shields.io/badge/Cours%206-Ancienne%20version-yellow)](https://www.patrickfournier.ca/mat8186-cours6/)
 
