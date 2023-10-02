@@ -4,6 +4,7 @@
 [![Cours 4](https://img.shields.io/badge/Cours%204-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours4/)
 [![Cours 5](https://img.shields.io/badge/Cours%205-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours5/)
 [![Cours 6](https://img.shields.io/badge/Cours%206-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours6/)
+[![Cours 7](https://img.shields.io/badge/Cours%207-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours7/)
 
 # MAT8186: Techniques avancées en programmation statistiques R
 ## Bienvenue!
@@ -30,6 +31,7 @@ dépôt contiendra donc l'ensemble du matériel nécessaire*.
 Exemples vu dans les cours.
 * [Cours 3](https://gist.github.com/ps-pat/7b2472679ee043c92751390570151ccc)
 * [Cours 4](https://gist.github.com/ps-pat/52828a05c8396d5087978aa002709469)
+* [Cours 7](https://gist.github.com/ps-pat/a6640f290e59e500e0eda5523669d25f)
 
 ## Coordonnées
 Vous pouvez me joindre:
