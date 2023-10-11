@@ -6,16 +6,19 @@
 	url = git@github.com:ps-pat/mat8186-cours2.git
 [submodule "cours3-debug_profile_benchmark"]
 	path = cours3-debug_profile_benchmark
-	url = ./cours3-debug_profile_benchmark
+	url = git@github.com:ps-pat/mat8186-cours3.git
 [submodule "cours4-oop"]
 	path = cours4-oop
-	url = ./cours4-oop
+	url = git@github.com:ps-pat/mat8186-cours4.git
 [submodule "cours5-packaging"]
 	path = cours5-packaging
-	url = ./cours5-packaging
+	url = git@github.com:ps-pat/mat8186-cours5.git
 [submodule "cours6-tests"]
 	path = cours6-tests
-	url = ./cours6-tests
+	url = git@github.com:ps-pat/mat8186-cours6.git
 [submodule "devoir3"]
 	path = devoir3
 	url = git@github.com:ps-pat/mat8186-devoir3.git
+[submodule "cours7-calcul_parallele"]
+	path = cours7-calcul_parallele
+	url = git@github.com:ps-pat/mat8186-cours7.git
