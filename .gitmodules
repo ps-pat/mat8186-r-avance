@@ -16,3 +16,6 @@
 [submodule "cours6-tests"]
 	path = cours6-tests
 	url = ./cours6-tests
+[submodule "devoir3"]
+	path = devoir3
+	url = git@github.com:ps-pat/mat8186-devoir3.git
