@@ -22,3 +22,5 @@
 [submodule "cours7-calcul_parallele"]
 	path = cours7-calcul_parallele
 	url = git@github.com:ps-pat/mat8186-cours7.git
+[submodule "devoir1"]
+	url = git@github.com:ps-pat/mat8186-devoir1.git
