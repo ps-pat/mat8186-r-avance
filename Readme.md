@@ -26,6 +26,7 @@ dépôt contiendra donc l'ensemble du matériel nécessaire*.
 ## Devoirs
 * [Devoir 1](https://www.patrickfournier.ca/mat8186-devoir1/)
 * [Devoir 2](https://www.patrickfournier.ca/mat8186-devoir2/)
+* [Devoir 3](https://www.patrickfournier.ca/mat8186-devoir3/)
 
 ## Code
 Exemples vu dans les cours.
