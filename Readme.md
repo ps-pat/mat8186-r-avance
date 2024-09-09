@@ -1,10 +1,10 @@
-[![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours1/)
-[![Cours 2](https://img.shields.io/badge/Cours%202-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours2/)
-[![Cours 3](https://img.shields.io/badge/Cours%203-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours3/)
-[![Cours 4](https://img.shields.io/badge/Cours%204-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours4/)
-[![Cours 5](https://img.shields.io/badge/Cours%205-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours5/)
-[![Cours 6](https://img.shields.io/badge/Cours%206-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours6/)
-[![Cours 7](https://img.shields.io/badge/Cours%207-En%20ligne-green)](https://www.patrickfournier.ca/mat8186-cours7/)
+[![Cours 1](https://img.shields.io/badge/Cours%201-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
+[![Cours 2](https://img.shields.io/badge/Cours%202-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
+[![Cours 3](https://img.shields.io/badge/Cours%203-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
+[![Cours 4](https://img.shields.io/badge/Cours%204-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
+[![Cours 5](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
+[![Cours 6](https://img.shields.io/badge/Cours%206-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
+[![Cours 7](https://img.shields.io/badge/Cours%207-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
 
 # MAT8186: Techniques avancées en programmation statistiques R
 ## Bienvenue!
@@ -14,39 +14,19 @@ votre cours. Vous y trouverez:
 * Devoirs.
 * Liens utiles / matériel supplémentaire.
 
-Veuillez noter que nous n'utiliserons *pas* Moodle pour ce cours; *le
-dépôt contiendra donc l'ensemble du matériel nécessaire*.
+Veuillez noter que nous n'utiliserons *pas* Moodle pour ce cours; *le dépôt contiendra donc l'ensemble du matériel nécessaire*.
+
+J'utiliserai exclusivement le [serveur Discord](https://discord.gg/Qycqq6K5) du cours pour communiquer avec vous. Vous pouvez facilement me contacter par l'netremise de celui-ci. N'hésitez pas à l'utiliser pour communiquer entre vous.
 
 ## Informations
-* [Horaire](https://etudier.uqam.ca/cours?sigle=MAT8186): de 10h00 à 12h00 le
-  * lundi: 11, 18 et 25 septembre, 2 octobre
-* [Emplacement](https://goo.gl/maps/qBEwa3xAaQB4keiY9): PK-S1545
-   * Il s'agit d'un laboratoire d'informatique; des ordinateurs avec RStudio seront disponibles pour tous. Toutefois, je vous encourage à apporter votre propre ordinateur si vous préférez.
+* [Horaire](https://etudier.uqam.ca/cours?sigle=MAT8186): de 10h00 à 12h00 et de 15h00 à 17h00
+  * lundi: 9, 16, 23 et 30 septembre.
+* [Emplacement](https://goo.gl/maps/qBEwa3xAaQB4keiY9): PK-S????
+   * Il s'agit d'un laboratoire d'informatique; des ordinateurs avec RStudio seront disponibles pour tous. Toutefois, je vous encourage à apporter votre propre ordinateur si possible.
 
 ## Devoirs
-* [Devoir 1](https://www.patrickfournier.ca/mat8186-devoir1/)
-* [Devoir 2](https://www.patrickfournier.ca/mat8186-devoir2/)
-* [Devoir 3](https://www.patrickfournier.ca/mat8186-devoir3/)
-
-## Code
-Exemples vu dans les cours.
-* [Cours 3](https://gist.github.com/ps-pat/7b2472679ee043c92751390570151ccc)
-* [Cours 4](https://gist.github.com/ps-pat/52828a05c8396d5087978aa002709469)
-* [Cours 7](https://gist.github.com/ps-pat/a6640f290e59e500e0eda5523669d25f)
-
-## Coordonnées
-Vous pouvez me joindre:
-
-* par e-mail: fournier.patrick@uqam.ca
-* Zoom: https://uqam.zoom.us/my/patrick.fournier
-* en personne: PK-5323.
-
-Vous ne devriez *pas* me contacter directement pour poser une question d'intérêt
-général (exemple: "comment fait-on `xyz` dans R"). Pour ce type de questions,
-utilisez plutôt le [forum du
-cours](https://github.com/orgs/cours-patrickFournier/teams/automne-2023/discussions).
-Tel que discuté, des points seront offerts pour toute réponse (correcte) que
-vous fournirez à une question du forum.
+* Devoir 1 *(à venir)*
+* Devoir 2 *(à venir)*
 
 ## Références
 Références principales:
@@ -58,62 +38,31 @@ Références principales:
 * [R FAQ (Kurt Hornik)](https://cran.r-project.org/doc/FAQ/R-FAQ.html)
 * [Git Reference (Scott Chacon et contributeurs du dépôt git-scm.com)](https://git-scm.com/docs)
 
-Random:
-* Tables de hachage:
-  - [Explications](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
-  - [Documentation R](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/hashtab.html)
-  - [Exemple](https://www.patrickfournier.ca/pages/blog/post_r-42/index.html#hashtables)
-
 ## Logiciels à installer
 Les logiciels suivants sont nécessaires pour le cours.
 
-* [R (>= 4.3.1)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
-* [Git (>= 2.42.0)](https://git-scm.com/downloads)
+* [R (>= 4.4.1)](https://mirror.rcg.sfu.ca/mirror/CRAN/)
+* [Git (>= 2.46.0)](https://git-scm.com/downloads)
 
-Si vous possédez déjà ces logiciels, profitez du début de la session pour vous
-assurer qu'ils sont bien à jour.
+Si vous possédez déjà ces logiciels, profitez du début de la session pour vous assurer qu'ils sont bien à jour.
 
 ### IDE
-Étant donné sa grande popularité, il existe une multitude d'environements
-permettant de faciliter le développement sous R. Libre à vous d'utiliser celui
-qui vous plaît (ou de ne pas en utiliser du tout). Personnellement, je
-recommande [R Studio](https://www.rstudio.com/), lequel sera utilisé pour les
-exemples durant le cours.
+Étant donné sa grande popularité, il existe une multitude d'environements permettant de faciliter le développement sous R. Libre à vous d'utiliser celui qui vous plaît (ou de ne pas en utiliser du tout). Personnellement, je recommande [R Studio](https://posit.co/download/rstudio-desktop), lequel sera utilisé pour les exemples durant le cours.
 
-## Packages R à installer
-Les packages ci-dessous sont nécessaires à l'exécution des scripts R présents
-sur ce dépôt. Ils sont tous disponibles sur CRAN et peuvent donc être installés
-par un simple appel à `install.packages`.
-
-* devtools
-* doParallel
-* foreach
-* magrittr
-* microbenchmark
-* proftools
-* pryr
-* roxygen2
-* testthat
-
-Si vous possédez déjà ces packages, profitez du début de la session pour vous
-assurer qu'ils sont à jour. Pour ce faire, à l'intérieur d'une session R,
-appellez
+### Mise à jour des packages
+Profitez du début de la session pour mettre à jour vos packages R. Pour ce faire, à l'intérieur d'une session R, appelez
 
 ``` R
 update.packages(ask = FALSE)
 ```
 
 ## Comment utiliser ce dépôt
-La bonne utilisation de git et, dans une moindre mesure, GitHub, fait partie
-intégrante du cours. Git est à la base un outil en ligne de commande possédant
-une quantité impressionnante de fonctionnalité. Cette section vous liste les
-étapes nécessaires à la bonne utilisation du dépôt pour le cours.
+La bonne utilisation de git et, dans une moindre mesure, GitHub, fait partie intégrante du cours. Git est à la base un outil en ligne de commande possédant une quantité impressionnante de fonctionnalité. Cette section vous liste les étapes nécessaires à la bonne utilisation du dépôt pour le cours.
 
-À la fin de cette section, vous aurez
+À la fin de cette section, vous aurez:
 
-1. une copie locale du dépôt qui sera en mesure de recevoir les
-   changements que j'y apporterai et
-2. une copie en ligne de votre dépôt local à laquelle j'aurai accès.
+1. Une copie locale du dépôt qui sera en mesure de recevoir les changements que j'y apporterai;
+2. Une copie en ligne de votre dépôt local à laquelle j'aurai accès.
 
 ![Schema git](readme_pictures/schema_git.svg)
 
@@ -121,17 +70,10 @@ une quantité impressionnante de fonctionnalité. Cette section vous liste les
 Le processus est standard, vous devriez facilement y arriver.
 
 ### Générez une clé SSH
-Suivez la procédure détaillée
-[ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent),
-sections "Generating a new SSH key" et "Adding your SSH key to the
-ssh-agent". Afin d'associer votre nouvelle clée à votre compte github,
-suivez la procédure détaillée
-[ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+Suivez la procédure détaillée [ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent), sections "Generating a new SSH key" et (optionellement) "Adding your SSH key to the ssh-agent". Afin d'associer votre nouvelle clée à votre compte github, suivez la procédure détaillée [ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
 ### Surveillez le dépôt
-Cette étape n'est pas nécessaire mais je vous recommande de surveiller
-ce dépôt. Vous serez ainsi averti des modifications lui étant
-apportés. Pour ce faire,
+Cette étape n'est pas strictement nécessaire, mais je vous recommande de surveiller ce dépôt. Vous serez ainsi averti des modifications lui étant apportés. Pour ce faire,
 
 1. Cliquez sur le bouton `Watch` au coin supérieur droit de cette page;
    un menu déroulant apparaîtra.
@@ -157,13 +99,14 @@ cette copie*.
 
 1. Clonez mon dépôt:
 ```bash
-git clone --origin upstream git@github.com:cours-patrickFournier/mat8186-r-avance.git
+git clone --origin upstream git@github.com:ps-pat/mat8186-r-avance.git
 cd mat8186-r-avance
 ```
 2. Ajoutez votre dépôt GitHub comme remote:
 ```bash
 git remote add origin git@github.com:<nom d'utilisateur>/<nom du dépôt>.git
 ```
+<nom d'utilisateur> est votre nom d'utilisateur sur Github. <nom du dépôt> est le nom que vous avez donné à votre dépôt à l'étape précédente.
 
 3. Poussez vers votre dépôt:
 ```bash
