@@ -1,6 +1,6 @@
 [![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://ps-pat.github.io/mat8186-cours1/)
 [![Cours 2](https://img.shields.io/badge/Cours%202-En%20ligne-green)](https://ps-pat.github.io/mat8186-cours2/)
-[![Cours 3](https://img.shields.io/badge/Cours%203-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
+[![Cours 3](https://img.shields.io/badge/Cours%203-En%20ligne-green)](https://ps-pat.github.io/mat8186-cours3/)
 [![Cours 4](https://img.shields.io/badge/Cours%204-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
 [![Cours 5](https://img.shields.io/badge/Cours%205-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
 [![Cours 6](https://img.shields.io/badge/Cours%206-Hors%20ligne-red)](https://github.com/ps-pat/mat8186-r-avance)
@@ -22,7 +22,7 @@ J'utiliserai exclusivement le [serveur Discord](https://discord.gg/Qycqq6K5) du 
 * [Horaire](https://etudier.uqam.ca/cours?sigle=MAT8186): de 10h00 à 12h00 et de 15h00 à 17h00
   * lundi: 9, 16, 23 et 30 septembre.
 * [Emplacement](https://goo.gl/maps/qBEwa3xAaQB4keiY9): PK-S1535
-   * Il s'agit d'un laboratoire d'informatique; des ordinateurs avec RStudio seront disponibles pour tous. Toutefois, je vous encourage à apporter votre propre ordinateur si possible.
+  * Il s'agit d'un laboratoire d'informatique; des ordinateurs avec RStudio seront disponibles pour tous. Toutefois, je vous encourage à apporter votre propre ordinateur si possible.
 
 ## Devoirs
 * Devoir 1 *(à venir)*
