@@ -1,3 +1,4 @@
+*(Cliquez pour accéder aux slides!)*
 [![Cours 1](https://img.shields.io/badge/Cours%201-En%20ligne-green)](https://ps-pat.github.io/mat8186-cours1/)
 [![Cours 2](https://img.shields.io/badge/Cours%202-En%20ligne-green)](https://ps-pat.github.io/mat8186-cours2/)
 [![Cours 3](https://img.shields.io/badge/Cours%203-En%20ligne-green)](https://ps-pat.github.io/mat8186-cours3/)
