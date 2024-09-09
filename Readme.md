@@ -30,6 +30,9 @@ J'utiliserai exclusivement le [serveur Discord](https://discord.gg/Qycqq6K5) du 
 * Devoir 1 *(à venir)*
 * Devoir 2 *(à venir)*
 
+## Code vu en classe
+[Disponible ici!](https://gist.github.com/ps-pat/6bc36a4c3b7f80c49316e094a5fdbba2)
+
 ## Références
 Références principales:
 
