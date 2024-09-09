@@ -21,7 +21,7 @@ J'utiliserai exclusivement le [serveur Discord](https://discord.gg/Qycqq6K5) du 
 ## Informations
 * [Horaire](https://etudier.uqam.ca/cours?sigle=MAT8186): de 10h00 à 12h00 et de 15h00 à 17h00
   * lundi: 9, 16, 23 et 30 septembre.
-* [Emplacement](https://goo.gl/maps/qBEwa3xAaQB4keiY9): PK-S????
+* [Emplacement](https://goo.gl/maps/qBEwa3xAaQB4keiY9): PK-S1535
    * Il s'agit d'un laboratoire d'informatique; des ordinateurs avec RStudio seront disponibles pour tous. Toutefois, je vous encourage à apporter votre propre ordinateur si possible.
 
 ## Devoirs
