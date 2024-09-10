@@ -33,6 +33,11 @@ J'utiliserai exclusivement le [serveur Discord](https://discord.gg/Qycqq6K5) du 
 ## Code vu en classe
 [Disponible ici!](https://gist.github.com/ps-pat/6bc36a4c3b7f80c49316e094a5fdbba2)
 
+## Hors sujet (mais pas trop)
+* Une gentille introduction aux [fonctions de hashage](https://www.codecademy.com/resources/blog/what-is-hashing/).
+* [Explications](https://adv-r.hadley.nz/names-values.html) sur la gestions des références en R.
+  * [Détails techniques ici](https://cran.r-project.org/doc/manuals/R-exts.html#Named-objects-and-copying).
+
 ## Références
 Références principales:
 
