@@ -27,8 +27,9 @@ J'utiliserai exclusivement le [serveur Discord](https://discord.gg/Qycqq6K5) du 
   * Il s'agit d'un laboratoire d'informatique; des ordinateurs avec RStudio seront disponibles pour tous. Toutefois, je vous encourage à apporter votre propre ordinateur si possible.
 
 ## Devoirs
-* Devoir 1 *(à venir)*
+* [Devoir 1](https://github.com/ps-pat/mat8186-r-avance/tree/master/devoir1)
 * Devoir 2 *(à venir)*
+* Devoir 3 *(à venir)*
 
 ## Code vu en classe
 [Disponible ici!](https://gist.github.com/ps-pat/6bc36a4c3b7f80c49316e094a5fdbba2)
