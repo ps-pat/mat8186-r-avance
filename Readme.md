@@ -81,7 +81,7 @@ La bonne utilisation de git et, dans une moindre mesure, GitHub, fait partie int
 Le processus est standard, vous devriez facilement y arriver.
 
 ### Générez une clé SSH
-Suivez la procédure détaillée [ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent), sections "Generating a new SSH key" et (optionellement) "Adding your SSH key to the ssh-agent". Afin d'associer votre nouvelle clée à votre compte github, suivez la procédure détaillée [ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+Suivez la procédure détaillée [ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent), sections "Generating a new SSH key" et (optionellement) "Adding your SSH key to the ssh-agent". Afin d'associer votre nouvelle clée à votre compte github, suivez la procédure détaillée [ici](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account). Vous devez l'ajouter comme clé d'authentification (authentication) et non de signature (signing).
 
 ### Surveillez le dépôt
 Cette étape n'est pas strictement nécessaire, mais je vous recommande de surveiller ce dépôt. Vous serez ainsi averti des modifications lui étant apportés. Pour ce faire,
