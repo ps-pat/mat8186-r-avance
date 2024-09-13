@@ -197,7 +197,7 @@ git pull upstream master
 Cette commande se comprend ainsi:
 - **git**: nom du logiciel à utiliser;
 - **pull**: action à réaliser;
-- **pat**: nom du dépôt distant (*remote*);
+- **upstream**: nom du dépôt distant (*remote*);
 - **master** nom de la branche.
 
 Parfois, il peut être nécessaire d'incorporer des changements apportés
