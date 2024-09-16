@@ -38,6 +38,7 @@ J'utiliserai exclusivement le [serveur Discord](https://discord.gg/Qycqq6K5) du 
 * Une gentille introduction aux [fonctions de hashage](https://www.codecademy.com/resources/blog/what-is-hashing/).
 * [Explications](https://adv-r.hadley.nz/names-values.html) sur la gestions des références en R.
   * [Détails techniques ici](https://cran.r-project.org/doc/manuals/R-exts.html#Named-objects-and-copying).
+* [Fast Inverse Square Root Algorithm](https://youtu.be/p8u_k2LIZyo?feature=shared) (vidéo): un exemple classique de code optimisé!
 
 ## Références
 Références principales:
