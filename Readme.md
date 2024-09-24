@@ -27,7 +27,7 @@ J'utiliserai exclusivement le [serveur Discord](https://discord.gg/Qycqq6K5) du 
 
 ## Devoirs
 * [Devoir 1](https://github.com/ps-pat/mat8186-r-avance/tree/master/devoir1)
-* Devoir 2 *(à venir)*
+* [Devoir 2](https://github.com/ps-pat/mat8186-r-avance/tree/master/devoir2)
 * Devoir 3 *(à venir)*
 
 ## Code vu en classe
