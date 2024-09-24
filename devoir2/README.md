@@ -14,9 +14,9 @@ flowchart LR;
     4---2;
 ```
 correspond au graphe
-$$
+```math
 (V = \{ 1, 2, 3, 4 \}, E = \{ \{1, 2\}, \{2, 3\}, \{1, 4\}, \{2, 4\} \})
-$$
+```
 
 On parle de *graphe dirigé* ou *digraphe* lorsque l'ordre des éléments de $E$ est important. Par exemple,
 ```mermaid
@@ -32,9 +32,9 @@ flowchart LR;
     4-->3;
 ```
 correspond au graphe
-$$
+```math
 (V = \{ 1, 2, 3, 4 \}, E = \{ (1, 2), (1, 3), (4, 2), (4, 3) \}.
-$$
+```
 Les parenthèses sont utilisées pour indiquer que l'ordre des sommets est important.
 
 ## Question 1
