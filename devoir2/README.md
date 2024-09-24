@@ -33,7 +33,7 @@ flowchart LR;
 ```
 correspond au graphe
 ```math
-(V = \{ 1, 2, 3, 4 \}, E = \{ (1, 2), (1, 3), (4, 2), (4, 3) \}.
+(V = \{ 1, 2, 3, 4 \}, E = \{ (1, 2), (1, 3), (4, 2), (4, 3) \}).
 ```
 Les parenthèses sont utilisées pour indiquer que l'ordre des sommets est important.
 
