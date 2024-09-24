@@ -11,3 +11,15 @@ digraph <- function(x = stop("Arguments ici")) {
 
 ## Question 2 ##
 stop("Votre code ici!")
+
+## Question 3 ##
+stop("Votre code ici!")
+
+## Question 4 ##
+stop("Votre code ici!")
+
+## Question 5 ##
+stop("Votre code ici!")
+
+## Question 6 ##
+stop("Votre code ici!")
