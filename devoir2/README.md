@@ -50,5 +50,12 @@ Soit $n$ un entier positif et $0 \leq p \leq 1$. Un graphe $G = (V, E)$ suit [le
 
 Implémentez la méthode `rand` pour `graph` et `digraph` qui génère un graphe aléatoire $G$ "semblable" à un graphe $`G' = (V', E')`$. Pour ce faire, votre méthode doit prendre en argument un `graph`/`digraph` et en générer un nouveau selon le modèle
 ```math
-\mathcal G \left( \lvert V' \rvert, \frac{\lvert E' \rvert}{\lvert V' \rvert} \right).
+\mathcal G \left( \lvert V' \rvert, \frac{\lvert E' \rvert}{m} \right).
+```
+où
+```math
+m = \begin{cases}
+    {\lvert V' \rvert \choose 2} &\text{si } G \text{ est un graphe}\\
+    2 {\lvert V' \rvert \choose 2} &\text{si } G \text{ est un digraphe}
+\end{cases}.
 ```
