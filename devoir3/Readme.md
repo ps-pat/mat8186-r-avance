@@ -31,7 +31,7 @@ Implémenter la méthode `parallele` pour `segment` et `droite`. Cette méthode 
 Implémenter la méthode `intersection` pour ces deux classes. Cette méthode prend deux segments/droites en entrée et retourne leur point d'intersection. Si les objets ne s'intersectent pas, elle retourne le point `(.Machine$integer.max, .Machine$integer.max)`.
 
 ## Question 3
-Implémentez la classe `polygone` représentant un polygone *simple* de $`\mathcal Z^2`$.
+Implémentez la classe `polygone` représentant un polygone *simple* de $`\mathbb Z^2`$.
 
 ## Question 4
 Une manière simple de vérifier si deux polygones $A$ et $B$ s'intersectent est de vérifier, pour chaque segment de $A$, s'il existe un segment de $B$ tel que l'intersection entre les deux segments est non-vide. Implémenter cet algorithme dans une méthode `intersection` pour la classe polygone. Pour augmenter la performance de votre implémentation, votre méthode doit implémenter l'algorithme en parallèle.
